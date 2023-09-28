@@ -42,4 +42,4 @@ To perform trial-wise cross-validation of Transformer, runt the following comman
 python trust_transformer_cross_trial.py
 ```
 # 4. Thanks
-Special thanks to the authors of the EEGTorch, whose excellent code was used as a basis for the generation scripts in the repository.
+Special thanks to the authors of the [EEGTorch](https://torcheeg.readthedocs.io/en/latest/), whose excellent code was used as a basis for the generation scripts in the repository.
