@@ -19,7 +19,9 @@ This repository contains the code implementation used in the paper Real-time Tru
 - 26/9/2023 EEGTrust v1.0 Uploaded.
   
 # 2. Download Dataset
-Our dataset can be downloaded [here](https://yunpan.tongji.edu.cn/link/AAD7EAE6EAF0A4424DA60F4E5522230CEB). Detailed instructions for utilizing the dataset can be found in the REDEME file provided on the data access portal page. If there are any questions about the dataset, please contact email xucaiyue@tongji.edu.cn.
+Our dataset can be downloaded [here](https://yunpan.tongji.edu.cn/link/AAD7EAE6EAF0A4424DA60F4E5522230CEB). Detailed instructions for utilizing the dataset can be found in the Dataset/README file. 
+Notice: The license of the dataset is for academic research only. To download the dataset, please sign and send the Dataset/eula to email xucaiyue@tongji.edu.cn.
+
 
 # 3. Scripts
 ## 3.1 Environments
